@@ -1,0 +1,34 @@
+.registerbg{
+    background: rgb(152,36,87);
+background: radial-gradient(circle, rgba(152,36,87,1) 0%, rgba(47,54,226,1) 100%) !important;
+}
+
+label{
+    color: cadetblue;
+    font-weight: bold;
+}
+
+#check{
+    align-items: center !important;
+}
+
+.existing{
+    text-decoration: none;
+    color: forestgreen;
+    text-align: center;
+}
+
+
+/* ! Login page */
+
+
+.login{
+    text-decoration: none;
+    color: forestgreen;
+    text-align: center;
+}
+
+.loginbg{
+    background: rgb(152,36,87);
+background: radial-gradient(circle, rgba(152,36,87,1) 0%, rgba(233,162,148,1) 100%) !important;
+}
