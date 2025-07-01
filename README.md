@@ -9,4 +9,4 @@ Ideal for integration into modern web applications as an authentication UI.
 - Separate **Signup** and **Signin** pages
 - Fully responsive layout (mobile-friendly)
 - Form validation (basic JS or HTML5)
-- Ready for backend integration (Laravel, Node, etc.)
+- Ready for backend integration (PHP and MySQL)
